@@ -6,6 +6,17 @@ deepagents-deepagents-code-0.2.14的编码项目Deep Agents Code::
 git--https://github.com/langchain-ai/deepagents/tree/deepagents-code%3D%3D0.2.14   
 
 
+
+
+Context management — summarize long threads and offload tool outputs to disk
+Persistent memory — pluggable state and store backends for cross-session recall
+Skills — reusable behaviors the agent can load on demand
+Tools — bring your own functions or any MCP server
+Human-in-the-loop — approve, edit, or reject tool calls before they run
+--
+子代理Sub-agents — delegate tasks to agents with isolated context windows
+Shell access — run commands in your sandbox of choice
+Filesystem — read, write, edit, or search over pluggable local, sandboxed, or remote backends
 ##===================================##===================================##===================================
 ##===================================##===================================##===================================
 ##===================================##===================================##===================================
